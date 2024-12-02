@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="productImage" type="id" />
+    <item name="productName" type="id" />
+    <item name="productPrice" type="id" />
+    <item name="etProductName" type="id" />
+    <item name="etProductPrice" type="id" />
+    <item name="btnSelectImage" type="id" />
+    <item name="btnAddProduct" type="id" />
+    <item name="menu_add_product" type="id" />
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="product_image">Product Image</string>
+    <string name="select_image">Select Image</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="app_name">compras_online</string>
+    <string name="selecionar_imagem" />
+    <string name="nome_do_produto">Nome do Produto</string>
+    <string name="pre_o_do_produto">Preço do Produto</string>
+    <string name="adicionar_produto">Adicionar_Produto</string>
+    <string name="salvar_produto">Salvar Produto</string>
+    <string name="adicionar_produtos">Adicionar Produto</string>
+    <string name="imagem_do_produto">Imagem do Produto</string>
+    <string name="nome_do_produtos">Nome do Produto</string>
+    <string name="pre_o_do_produtos">Preço do Produto</string>
+</resources>
